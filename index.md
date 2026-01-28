@@ -1,6 +1,6 @@
 ---
-# Welcome to my blog!
-
-+ My name is Chien and i am trying to learn about the coding.
-+ Maybe it is very fun and i very like it !!!
+title: "Welcome to my blog!"
 ---
+
+My name is Chien and I am trying to learn about coding.
+Maybe it is very fun and I really like it!
